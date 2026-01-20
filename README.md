@@ -1,6 +1,7 @@
 ## 🗓️ 19/01/2026 - session 1 :
 
-### Operators , Threading , multi-threading , garbage collection , comprehension , memory management , asynchronous , multiprocessing
+- Operators
+- Threading , multi-threading , garbage collection , comprehension , memory management , asynchronous , multiprocessing
 
 ---
 
